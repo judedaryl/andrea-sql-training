@@ -1,0 +1,1 @@
+# andrea-sql-training
